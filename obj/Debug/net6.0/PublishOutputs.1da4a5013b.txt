@@ -1,0 +1,7 @@
+D:\github\BlazorApp\bin\Debug\net6.0\publish\BlazorApp.exe
+D:\github\BlazorApp\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\github\BlazorApp\bin\Debug\net6.0\publish\appsettings.json
+D:\github\BlazorApp\bin\Debug\net6.0\publish\BlazorApp.dll
+D:\github\BlazorApp\bin\Debug\net6.0\publish\BlazorApp.deps.json
+D:\github\BlazorApp\bin\Debug\net6.0\publish\BlazorApp.runtimeconfig.json
+D:\github\BlazorApp\bin\Debug\net6.0\publish\BlazorApp.pdb
